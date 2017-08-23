@@ -4,12 +4,8 @@ With NLTK, and using WordNet as a dictionary, I wrote a program that uses the Le
 
 This project was part of the University of Toronto's Computational Linguistics course. 
 
-There are two files in this projects: 
-1. lesk.py
-2. leskoutput.txt
+There is only file in this repository: leskoutput.txt
 
-lesk.py includes only part of the code for the Lesk algorithm. Please e-mail me if you would like to review the whole code base. 
+Please e-mail me if you would like to review the whole code base. 
 
-leskoutput.txt includes the output file when you run lesk.py. 
-
-To run lesk.py, you need NLTK. Download the latest version of NLTK. 
+leskoutput.txt is the output file when you run my lesk.py (not provided) . 
