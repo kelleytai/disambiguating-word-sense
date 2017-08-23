@@ -1,0 +1,100 @@
+### Kelley tai, 999809195
+
+
+salad/N
+salad#1
+salad#1    food mixtures either arranged on a plate or tossed and served
+           with a moist dressing; usually consisting of or including greens 
+           2    ['food', 'served']
+I will have to agree with the system's output because there is only definition
+for salad. 
+
+greens/N
+greens#1 
+greens#1    any of various leafy plants or their leaves and stems eaten as
+            vegetables    2     ['various', 'eaten']
+greens#2    green color or pigment; resembling the color of growing grass
+            1     ['green']
+greens#3    a piece of open land for recreational use in an urban area    1
+            ['area']
+greens#4    United States labor leader who was president of the American
+            Federation of Labor from 1924 to 1952 and who led the struggle
+            with the Congress of Industrial Organizations (1873-1952)    1    
+            ['American']
+greens#5    an environmentalist who belongs to the Green Party    0     []
+greens#6    a river that rises in western Wyoming and flows southward through 
+            Utah to become a tributary of the Colorado River    0     []
+greens#7    an area of closely cropped grass surrounding the hole on a 
+            golf course    1     ['area']
+greens#8    any of various leafy plants or their leaves and stems eaten as
+            vegetables    2     ['various', 'eaten']
+greens#9    street names for ketamine    0     []
+I agree with the system's output. In the context of the given sentence,
+greens means vegetables that can be eaten. The only sense that can make
+sense is greens#1 (hahaha see what I did there).
+
+tomato/N
+tomato#1
+tomato#1    mildly acid red or yellow pulpy fruit eaten as a vegetable    3
+            ['pulpy', 'fruit', 'eaten']
+tomato#2    native to South America; widely cultivated in many varieties    0
+            [] 
+I agree with the system's output. In the context of the sentence, tomato most
+likely means a red fruit that is somewhat acidic and can be "eaten as a vegetable". 
+Tomato#2 could make sense but it is hard to tell whether or the tomato in the
+sentence was native to South America or not. 
+
+addition/N
+addition#2 
+addition#1    a component that is added to something to improve it    1 
+              ['added']
+addition#2    the act of adding one thing to another    2     ['one', 'thing']
+addition#3    a quantity that is added    1     ['added']
+addition#4    something added to what you already have    1     
+              ['added']
+addition#5    a suburban area laid out in streets and lots for a future 
+              residential area    1     ['area']
+addition#6    the arithmetic operation of summing; calculating the sum of two
+              or more numbers    0     []
+I disagree with the system's output. Since the sentence is saying that eating a
+salad with greens and tomato is a nice bonus to a meal, I would agree with
+addition #1. It seems that eating a salad with greens and tomato can brighten up
+one's day or improve the quality of one's meal. 
+
+meal/N
+meal#1 
+meal#1    the food served and eaten at one time    4     ['food', 'served',
+          'eaten', 'one']
+meal#2    any of the occasions for eating food that occur by custom or habit
+          at more or less fixed times    1     ['food']
+meal#3    coarsely ground foodstuff; especially seeds of various cereal 
+          grasses or pulse    1     ['various']
+I agree with the chosen prediction. In this case, the sentence says that a
+salad with greens and tomato can be food that is served and eaten. 
+
+avocado/N
+avocado#2 
+avocado#1    a pear-shaped tropical fruit with green or blackish skin and
+             rich yellowish pulp enclosing a single large seed    2     
+             ['fruit', 'green']
+avocado#2    tropical American tree bearing large pulpy green fruits    3
+             ['American', 'pulpy', 'green']
+I disagree with the program's prediction. The sentence implies that avocado is
+something that can be eaten. avocado#2 is a tree. We do not eat trees (at least,
+not in a salad with greens and tomatoes). When we talk about avocados, it 
+usually pertains to the fruit. 
+
+special/Adj
+special#1 
+special#1    unique or specific to a person or thing or category    1     
+             ['thing']
+special#2    for a special service or occasion    0     []
+special#3    surpassing what is common or usual or expected    0     []
+special#4    adapted to or reserved for a particular purpose    0     []
+special#5    having a specific function or scope    0     []
+special#6    first and most important    0     []
+special#7    added to a regular schedule    1     ['added']
+I disagree with the system's output. The correct sense should be special#3.
+Adding an avocado to a salad with greens and tomatoes will make the meal
+taste better. The meal is not ordinary, but better. This context suits the
+third sense the most. 
